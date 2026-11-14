@@ -1,0 +1,14 @@
+[
+  {"q": "what should i check first when a gpu temperature alert fires?", "doc": "gpu_overheat.md", "must_include": "fan"},
+  {"q": "how long does a firmware update take?", "doc": "firmware_update.md", "must_include": "15"},
+  {"q": "what do i need to request a replacement part?", "doc": "part_replacement.md", "must_include": "service tag"},
+  {"q": "how many days do i have to return a failed part?", "doc": "part_replacement.md", "must_include": "10"},
+  {"q": "where do i export system logs?", "doc": "log_export.md", "must_include": "export logs"},
+  {"q": "a network port shows link down, what do i try first?", "doc": "network_link.md", "must_include": "reseat"},
+  {"q": "should i back anything up before a firmware update?", "doc": "firmware_update.md", "must_include": "configuration"},
+  {"q": "what is the price of a replacement gpu?", "doc": null, "must_include": "don't know"}, 
+  {"q": "my server is running hot, what do i do?", "doc": "gpu_overheat.md", "must_include": "fan"},
+  {"q": "how do i get a new component sent to me?", "doc": "part_replacement.md", "must_include": "service tag"},
+  {"q": "the machine keeps flagging high heat on its graphics card", "doc": "gpu_overheat.md", "must_include": "fan"},
+  {"q": "how do i download diagnostics to send to the help desk?", "doc": "log_export.md", "must_include": "export logs"}
+]
